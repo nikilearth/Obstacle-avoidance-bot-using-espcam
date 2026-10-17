@@ -11,7 +11,7 @@
 // Enter your WiFi credentials
 // ===========================
 const char *ssid = "N6";
-const char *password = "joker2020";
+const char *password = "****";
 
 void startCameraServer();
 void setupLedFlash();
